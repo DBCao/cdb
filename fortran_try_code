@@ -1,0 +1,7 @@
+program main
+      implicit none
+      integer(4)::x=128
+      integer y(3,4)
+      print *, x
+      write(*,*) x
+end
